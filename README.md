@@ -1,7 +1,7 @@
 # AI Research Agent
 
-**A multi-agent research assistant built on LangGraph and the Model Context Protocol (MCP).**
-Give it a question — it plans subtopics, researches each one with live web and arXiv
+**A multi-agent research assistant built on LangGraph and Model Context Protocol (MCP).**
+Give it a question, it plans subtopics, researches each one with live web and arXiv
 search delivered over MCP, writes a synthesized report, critiques its own draft,
 revises when needed, and saves the final result. Every step is an explicit, inspectable
 node in a LangGraph state graph.
